@@ -1,0 +1,1 @@
+### Projeto de aplicativo console, com consumo de uma api de retorno de usuários, com métodos para retornar apenas nome e email de usuário.

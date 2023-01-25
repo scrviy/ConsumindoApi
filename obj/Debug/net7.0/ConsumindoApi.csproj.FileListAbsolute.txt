@@ -1,0 +1,17 @@
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/ConsumindoApi
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/ConsumindoApi.deps.json
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/ConsumindoApi.runtimeconfig.json
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/ConsumindoApi.dll
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/ConsumindoApi.pdb
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.dll
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/refint/ConsumindoApi.dll
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.pdb
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ref/ConsumindoApi.dll
+/home/scrviy/dev/dotnet/ConsumindoApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/scrviy/dev/dotnet/ConsumindoApi/obj/Debug/net7.0/ConsumindoApi.csproj.CopyComplete
