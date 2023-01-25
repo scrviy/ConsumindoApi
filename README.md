@@ -1,1 +1,1 @@
-### Projeto de aplicativo console, com consumo de uma api de retorno de usuários, com métodos para retornar apenas nome e email de usuário.
+### Console Application with a api consume, with a get request on user and email.
